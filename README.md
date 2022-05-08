@@ -5,7 +5,7 @@ POSTAL is a mobile application that, alike twitter and other social media platfo
 3.		Delete a Post using a long click   
 4.		Search posts by tag
 5.	 Create a post by entering: the owner’s ID, the image url, the caption and the tags
-7.		Fetch more posts using infinite scroll loading
+6.	 Fetch more posts using infinite scroll loading
 Group Members:
 -Anas Bakraoui
 -Lamyae Boumlik
