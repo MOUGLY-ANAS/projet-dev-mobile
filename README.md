@@ -3,11 +3,11 @@ POSTAL is a mobile application that, alike twitter and other social media platfo
 
 1.    Display the list of posts returned by the API whose link is the following : https://dummyapi.io/data/v1/post
 
-2.		Click on a Post in order to view it in a new screen
+2.	                                	Click on a Post in order to view it in a new screen
 
-3.		Delete a Post using a long click   
+3.	                            	Delete a Post using a long click   
 
-4.		Search posts by tag
+4.		                          Search posts by tag
 
 5.	  Create a post by entering: the owner’s ID, the image url, the caption and the tags
 
